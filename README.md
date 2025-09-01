@@ -13,3 +13,5 @@ I’m currently working on<br>A web app to manage construction projects and real
 [![](https://visitcount.itsvg.in/api?id=Miguel-Leiriao&icon=0&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Buy Me a Coffee](https://img.shields.io/badge/☕-Buy%20me%20a%20coffee-orange)](https://buymeacoffee.com/miguelleiriao)
+
